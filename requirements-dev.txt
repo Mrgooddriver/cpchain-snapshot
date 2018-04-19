@@ -1,0 +1,6 @@
+# for usage, cf. https://github.com/toml-lang/toml 
+ipfsapi
+eth-keyfile
+web3
+qt5reactor
+treq

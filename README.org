@@ -1,0 +1,21 @@
+CYBER PHYSICAL CHAIN FOUNDATION LTD.
+
+This is a snapshot of the *pre-alpha (0.1) version*.
+/Private keys in this repo are for testing purpose./
+
+
+*NOTE, it lags several rounds behind the latest version.*
+
+We are actively developing new features and fixing bugs on our own platform.  Please do not report
+issues here.
+
+*provider*
+  #+html: <p align="center"><img src="assets/provider.gif" width="750"/></p>
+
+\\
+
+*consumer*
+  #+html: <p align="center"><img src="assets/consumer.gif" width="750"/></p>
+
+
+Please visit us at [[http://cpchain.io/][cpchain.io]].
